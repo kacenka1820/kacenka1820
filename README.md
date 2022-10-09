@@ -1,13 +1,5 @@
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+<div align="center">
+  <img src="https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt?si=cf97b069589b440c?theme=dark&scan=true&rainbow=true&spin=true" alt="Widget with the current Spotify song"  />
+</div>
 
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
+###
