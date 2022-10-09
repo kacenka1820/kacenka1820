@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center"></div>  
   
 
 - 🔭 I'm doing nothing at the moment (I've never done anything)  
