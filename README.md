@@ -6,7 +6,8 @@
 
 - ⚡ Fun fact: I ride a motorcycle  
 
--🎵 Linkin Park
+- 🎵 Linkin Park
+
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/mfhIlzn4UZb68/giphy.gif?cid=ecf05e4706j53vfpw823ajflyvxl28ga3am308h9x0ajvoj2&rid=giphy.gif&ct=g"  />
 </div>
