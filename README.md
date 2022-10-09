@@ -1,5 +1,10 @@
 
   <p align="left">Hello there👋</p>
+  
+  <div align="right">
+  <img height="200" src="https://www.armytrika.cz/data/produkty/foto/big/samolepka-hello-kitty-punisher-kalashnikov.jpg"  />
+</div>
+  
 
 - 🔭 I'm doing nothing at the moment (I've never done anything)  
   
