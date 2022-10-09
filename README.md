@@ -2,7 +2,7 @@
   <p align="left">Hello there👋</p>
   
   <div align="centre">
-  <img height="300" src="https://m.media-amazon.com/images/I/41hrAqipKiL.jpg" />
+  <img height="150" src="https://m.media-amazon.com/images/I/41hrAqipKiL.jpg" />
 </div>
   
 
