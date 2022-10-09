@@ -1,5 +1,17 @@
 
-  
+  <p align="left">Hello there👋</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/mfhIlzn4UZb68/giphy.gif?cid=ecf05e4706j53vfpw823ajflyvxl28ga3am308h9x0ajvoj2&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kacenka1820/kacenka1820/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 - 🔭 I'm doing nothing at the moment (I've never done anything)  
   
