@@ -4,6 +4,10 @@
   <div align="right">
   <img height="150" src="https://m.media-amazon.com/images/I/41hrAqipKiL.jpg" />
 </div>
+
+<div align="left">
+  <img height="100" src="https://wallpaperaccess.com/full/400299.jpg" />
+</div>
   
 
 - 🔭 I'm doing nothing at the moment (I've never done anything)  
