@@ -2,7 +2,8 @@
   <p align="left">Hello there👋</p>
   
   <div align="right">
-  <img height="200" src="https://www.armytrika.cz/data/produkty/foto/big/samolepka-hello-kitty-punisher-kalashnikov.jpg"  />
+  <img height="200" src="![samolepka-hello-kitty-punisher-kalashnikov](https://user-images.githubusercontent.com/87095390/194767291-28ef7e24-dc89-4759-a5dc-23a0a6aeaf4e.jpg)
+"  />
 </div>
   
 
