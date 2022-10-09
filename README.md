@@ -1,7 +1,7 @@
 
   <p align="left">Hello there👋</p>
   
-  <div align="centre">
+  <div align="center">
   <img height="150" src="https://m.media-amazon.com/images/I/41hrAqipKiL.jpg" />
 </div>
   
