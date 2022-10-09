@@ -2,7 +2,7 @@
   <p align="left">Hello there👋</p>
   
   <div align="right">
-  <img height="200" src="https://w7.pngwing.com/pngs/555/977/png-transparent-hello-kitty-illustration-hello-kitty-sticker-decal-firearm-ak-47-hello-angle-white-mammal.png" />
+  <img height="200" src="https://m.media-amazon.com/images/I/41hrAqipKiL.jpg" />
 </div>
   
 
